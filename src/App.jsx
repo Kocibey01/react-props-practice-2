@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useState } from "react";
 import { Link, Route, Routes } from "react-router-dom";
 import { appsData, productsData } from "./data.js";
