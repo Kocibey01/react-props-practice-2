@@ -49,7 +49,7 @@
   align-content: safe end;
 
   height: 400px;
-  overflow-y: scroll;
+  overflow: hidden;
 }
 
 .chat .message {
